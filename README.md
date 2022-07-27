@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Darkness 👋
 
-<!--
-**Raian0171/Raian0171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: LAMIN ALAM RAIAN
 
-Here are some ideas to get you started:
+-----BUBT-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ID: 21225103491
+
+Email:  laminalamryan@gmail.com
+
+CodeForce: https://codeforces.com/profile/Raian0171
+
+
